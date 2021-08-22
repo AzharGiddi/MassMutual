@@ -1,4 +1,4 @@
-package PageClasses;
+package com.massmutual.pageclasses;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -12,8 +12,9 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.testng.Assert;
 import org.testng.asserts.SoftAssert;
-import StepDefinitions.BaseClass;
-import Utils.CurrencyUtil;
+
+import com.massmutual.Utils.CurrencyUtil;
+import com.massmutual.stepdefinitions.BaseClass;
 
 /***
  * 

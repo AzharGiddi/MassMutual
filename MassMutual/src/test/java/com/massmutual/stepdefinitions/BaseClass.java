@@ -1,4 +1,4 @@
-package StepDefinitions;
+package com.massmutual.stepdefinitions;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;

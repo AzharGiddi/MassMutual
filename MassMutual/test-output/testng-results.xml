@@ -2,19 +2,19 @@
 <testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="3982" started-at="2021-08-22T12:01:49 IST" finished-at="2021-08-22T12:01:53 IST">
+  <suite name="Default suite" duration-ms="17789" started-at="2021-08-22T14:24:39 IST" finished-at="2021-08-22T14:24:57 IST">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper, io.cucumber.testng.FeatureWrapper)[pri:0, instance:StepDefinitions.TestRunner@7d70d1b1]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test name="Default test" duration-ms="3982" started-at="2021-08-22T12:01:49 IST" finished-at="2021-08-22T12:01:53 IST">
+    <test name="Default test" duration-ms="17789" started-at="2021-08-22T14:24:39 IST" finished-at="2021-08-22T14:24:57 IST">
       <class name="StepDefinitions.TestRunner">
-        <test-method status="PASS" signature="setUpClass()[pri:0, instance:StepDefinitions.TestRunner@7d70d1b1]" name="setUpClass" is-config="true" duration-ms="1182" started-at="2021-08-22T12:01:49 IST" finished-at="2021-08-22T12:01:50 IST">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:StepDefinitions.TestRunner@7d70d1b1]" name="setUpClass" is-config="true" duration-ms="2747" started-at="2021-08-22T14:24:39 IST" finished-at="2021-08-22T14:24:42 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:StepDefinitions.TestRunner@7d70d1b1]" name="tearDownClass" is-config="true" duration-ms="2751" started-at="2021-08-22T12:01:51 IST" finished-at="2021-08-22T12:01:53 IST">
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:StepDefinitions.TestRunner@7d70d1b1]" name="tearDownClass" is-config="true" duration-ms="14993" started-at="2021-08-22T14:24:42 IST" finished-at="2021-08-22T14:24:57 IST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->

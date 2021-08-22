@@ -1,10 +1,11 @@
-package StepDefinitions;
+package com.massmutual.stepdefinitions;
 
 import java.util.Properties;
 
 import org.openqa.selenium.WebDriver;
 
-import PageClasses.HomePage;
+import com.massmutual.pageclasses.HomePage;
+
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

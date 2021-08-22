@@ -1,4 +1,4 @@
-package StepDefinitions;
+package com.massmutual.stepdefinitions;
 
 
 
@@ -8,14 +8,13 @@ import io.cucumber.testng.CucumberOptions;
 
 
 
-
 @CucumberOptions(
 		features= {"src\\test\\resources\\Features"},
-		glue= {"StepDefinitions"},
+		glue= {"com.massmutual.stepdefinitions"},
 		monochrome=true,
 		plugin= {"com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"},
 		dryRun=false,
-		//tags= "@Regression",
+		tags= "@Regression",
 		publish=true
 		)
 
